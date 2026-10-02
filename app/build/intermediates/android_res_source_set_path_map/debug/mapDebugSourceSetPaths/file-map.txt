@@ -1,0 +1,8 @@
+com.example.pertemuan3.app-pngs-0 C:\semester 5\PAM\Pertemuan 3\app\build\generated\res\pngs\debug
+com.example.pertemuan3.app-updated_navigation_xml-1 C:\semester 5\PAM\Pertemuan 3\app\build\generated\updated_navigation_xml\debug
+com.example.pertemuan3.app-packageDebugResources-2 C:\semester 5\PAM\Pertemuan 3\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.pertemuan3.app-packageDebugResources-3 C:\semester 5\PAM\Pertemuan 3\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.pertemuan3.app-debug-4 C:\semester 5\PAM\Pertemuan 3\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.pertemuan3.app-debug-5 C:\semester 5\PAM\Pertemuan 3\app\src\debug\res
+com.example.pertemuan3.app-main-6 C:\semester 5\PAM\Pertemuan 3\app\src\main\res
+gradleHome-0 C:\Users\ACER\.gradle

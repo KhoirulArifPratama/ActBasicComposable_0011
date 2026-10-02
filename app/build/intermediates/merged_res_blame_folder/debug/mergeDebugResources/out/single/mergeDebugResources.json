@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\9.6.0\\com.example.pertemuan3.app-debug-39:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\9.6.0\\com.example.pertemuan3.app-main-41:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\9.6.0\\com.example.pertemuan3.app-debug-39:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\9.6.0\\com.example.pertemuan3.app-main-41:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\9.6.0\\com.example.pertemuan3.app-debug-39:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\9.6.0\\com.example.pertemuan3.app-main-41:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\9.6.0\\com.example.pertemuan3.app-debug-39:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\9.6.0\\com.example.pertemuan3.app-main-41:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\9.6.0\\com.example.pertemuan3.app-debug-39:\\drawable_umy_logo.jpg.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\9.6.0\\com.example.pertemuan3.app-main-41:\\drawable\\umy_logo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\9.6.0\\com.example.pertemuan3.app-debug-39:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\9.6.0\\com.example.pertemuan3.app-main-41:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\9.6.0\\com.example.pertemuan3.app-debug-39:\\drawable_background_terbaru.jpg.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\9.6.0\\com.example.pertemuan3.app-main-41:\\drawable\\background_terbaru.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\9.6.0\\com.example.pertemuan3.app-debug-39:\\drawable_profile_terbaru.jpg.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\9.6.0\\com.example.pertemuan3.app-main-41:\\drawable\\profile_terbaru.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\9.6.0\\com.example.pertemuan3.app-debug-39:\\drawable_profile_photo.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\9.6.0\\com.example.pertemuan3.app-main-41:\\drawable\\profile_photo.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\9.6.0\\com.example.pertemuan3.app-debug-39:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\9.6.0\\com.example.pertemuan3.app-main-41:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\9.6.0\\com.example.pertemuan3.app-debug-39:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\9.6.0\\com.example.pertemuan3.app-main-41:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\9.6.0\\com.example.pertemuan3.app-debug-39:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\9.6.0\\com.example.pertemuan3.app-main-41:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\9.6.0\\com.example.pertemuan3.app-debug-39:\\drawable_bg_login.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\9.6.0\\com.example.pertemuan3.app-main-41:\\drawable\\bg_login.xml"
+    },
+    {
+        "merged": "com.example.pertemuan3.app-debug-39:/drawable_background_terbaruuu.jpg.flat",
+        "source": "com.example.pertemuan3.app-main-41:/drawable/background_terbaruuu.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\9.6.0\\com.example.pertemuan3.app-debug-39:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\9.6.0\\com.example.pertemuan3.app-main-41:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\9.6.0\\com.example.pertemuan3.app-debug-39:\\drawable_bg_login.jpg.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\9.6.0\\com.example.pertemuan3.app-main-41:\\drawable\\bg_login.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\9.6.0\\com.example.pertemuan3.app-debug-39:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\9.6.0\\com.example.pertemuan3.app-main-41:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\9.6.0\\com.example.pertemuan3.app-debug-39:\\drawable_umy_logo.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\9.6.0\\com.example.pertemuan3.app-main-41:\\drawable\\umy_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\9.6.0\\com.example.pertemuan3.app-debug-39:\\drawable_notasibalok.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\9.6.0\\com.example.pertemuan3.app-main-41:\\drawable\\notasibalok.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\9.6.0\\com.example.pertemuan3.app-debug-39:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\9.6.0\\com.example.pertemuan3.app-main-41:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\9.6.0\\com.example.pertemuan3.app-debug-39:\\drawable_profile.jpg.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\9.6.0\\com.example.pertemuan3.app-main-41:\\drawable\\profile.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\9.6.0\\com.example.pertemuan3.app-debug-39:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\9.6.0\\com.example.pertemuan3.app-main-41:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\9.6.0\\com.example.pertemuan3.app-debug-39:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\9.6.0\\com.example.pertemuan3.app-main-41:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\9.6.0\\com.example.pertemuan3.app-debug-39:\\drawable_background.jpg.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\9.6.0\\com.example.pertemuan3.app-main-41:\\drawable\\background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\9.6.0\\com.example.pertemuan3.app-debug-39:\\drawable_logo_terbaru.jpg.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\9.6.0\\com.example.pertemuan3.app-main-41:\\drawable\\logo_terbaru.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\9.6.0\\com.example.pertemuan3.app-debug-39:\\drawable_logo_atas_terbaru.jpg.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\9.6.0\\com.example.pertemuan3.app-main-41:\\drawable\\logo_atas_terbaru.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\9.6.0\\com.example.pertemuan3.app-debug-39:\\drawable_profile_photo.jpg.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\9.6.0\\com.example.pertemuan3.app-main-41:\\drawable\\profile_photo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\9.6.0\\com.example.pertemuan3.app-debug-39:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\9.6.0\\com.example.pertemuan3.app-main-41:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\9.6.0\\com.example.pertemuan3.app-debug-39:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\9.6.0\\com.example.pertemuan3.app-main-41:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\9.6.0\\com.example.pertemuan3.app-debug-39:\\drawable_logo.jpg.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\9.6.0\\com.example.pertemuan3.app-main-41:\\drawable\\logo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\9.6.0\\com.example.pertemuan3.app-debug-39:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\9.6.0\\com.example.pertemuan3.app-main-41:\\mipmap-hdpi\\ic_launcher_round.webp"
+    }
+]
